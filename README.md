@@ -7,3 +7,4 @@ Ambrose Kubi
 I am commiting another change through a new branch.
 My first change was on the main branch
 
+Emmanuel Boamah
